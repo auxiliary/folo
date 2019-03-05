@@ -1,0 +1,28 @@
+html, body
+{
+    margin: 0;
+    padding: 0;
+    background-color: #f4f2f0;
+}
+
+pre
+{
+    margin: 0 !important;
+    border: 0 !important;
+}
+
+button
+{
+    border: 0;
+    padding: 10px;
+}
+
+[contenteditable]:focus {
+    outline: 0px solid transparent;
+}
+
+.topmenu
+{
+    width: 100%;
+    border-bottom: 1px solid #eee;
+}
